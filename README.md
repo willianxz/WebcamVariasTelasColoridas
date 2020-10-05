@@ -1,6 +1,6 @@
 # WebcamVariasTelasColoridas
 
-Olá!, esse código é para fazer testar a webcam do seu computador criando vários quadros coloridos decorativo que ficaram fixos na tela!!!
+Olá!, esse código é para testar a webcam do seu computador criando vários quadros coloridos decorativo que ficaram fixos na tela!!!
 
 Para ver esse código rodando entre nessa URL: link: https://willianxz.github.io/WebcamVariasTelasColoridas/
 
